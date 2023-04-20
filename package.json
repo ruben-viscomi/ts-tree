@@ -1,0 +1,27 @@
+{
+  "name": "ts-tree",
+  "version": "0.0.1",
+  "description": "A collection of trees built with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruben-viscomi/ts-tree.git"
+  },
+  "keywords": [
+    "data-structures",
+    "trees",
+    "algorithms"
+  ],
+  "author": "Ruben Viscomi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruben-viscomi/ts-tree/issues"
+  },
+  "homepage": "https://github.com/ruben-viscomi/ts-tree#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
